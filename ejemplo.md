@@ -46,5 +46,5 @@ _________________________
 _________________________  
 **[Nombre del Cliente]**
 
-**acabo de cambiar esto desde el front!!!**
+**acabo de cambiar esto desde el front X 2 !!!!**
 
