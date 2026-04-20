@@ -46,5 +46,5 @@ _________________________
 _________________________  
 **[Nombre del Cliente]**
 
-**NOTESE ESTE CAMBIO x2**
+**acabo de cambiar esto desde el front!!!**
 
